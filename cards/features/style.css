@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
+.features__logo-wrapper {
+    width: 125%;
+    margin: 75px;
+    
+}
+.features__logo {
+    width: 100.5px;
+    height: 100px;
+    
+}
